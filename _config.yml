@@ -1,0 +1,12 @@
+# Site settings
+title: this.edgeofforever.net
+email: this@edgeofforever.net
+description: > # this means to ignore newlines until "baseurl:"
+  reaching through the internet to opine about transhumanist art in new york city and beyond; an exploration of life, love, and lectons surfing a wave of future-shock. #emergence #weatherpunk #post_human
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://this.edgeofforever.net" # the base hostname & protocol for your site
+twitter_username: roastbeest
+github_username:  arebe
+
+# Build settings
+markdown: kramdown

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "init"
+date:   2015-08-22 00:44:49
+categories: words
+---
+Hello. So nice of you to join us.
