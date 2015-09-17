@@ -2,7 +2,8 @@
 layout: post
 title: init
 description: "first"
-tags: [test]
+tags: [words]
+comments: false
 ---
 
 Hello. So nice of you to join us.

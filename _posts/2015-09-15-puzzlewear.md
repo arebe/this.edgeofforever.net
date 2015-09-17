@@ -3,6 +3,7 @@ layout: post
 title:  "puzzlewear"
 description: "latest trend idea"
 tags: [fashion]
+comments: false
 ---
 
 today's idea for #post_human fashion: 
