@@ -1,9 +1,10 @@
 body {
 	margin: 0;
-	padding: 0;
 	width: 100%;
 	background-color: $body-color;
 	background-image: $body-image;
+	padding: 19px;
+
 }
 
 // Main
@@ -16,7 +17,7 @@ body {
 	}
 }
 .entry-content {
-	@include font-size(16);
+	@include font-size(26);
 	// Dotted line underlines for links
 	p > a,
 	li > a {
