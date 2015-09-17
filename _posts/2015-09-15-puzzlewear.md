@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "puzzlewear"
-date:   2015-09-11
+date:   2015-09-15
 categories: words, fashion
 ---
 
