@@ -12,4 +12,6 @@ graphics for this site use an excellent [javascript delaunay triangulation tool]
 
 this site was built with [jekyll](https://jekyllrb.com/) and based on the [hpstr](https://github.com/mmistakes/hpstr-jekyll-theme) theme. 
 
+<br />This work by <a xmlns:cc="http://creativecommons.org/ns#" href="arebe.us" property="cc:attributionName" rel="cc:attributionURL">r oast beest</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="this.edgeofforever.net" rel="dct:source">this.edgeofforever.net</a>.
+
 <3
