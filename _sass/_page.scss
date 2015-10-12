@@ -380,6 +380,15 @@ header .entry-meta {
 			padding: 50px 80px;
 		}
 	}
+	ul { 
+	    list-style: none; 
+	    margin-left: 0; 
+	    padding-left: 1em; 
+	    text-indent: -1em; 
+	} 
+	ul li:before { 
+	    content: "> "; 
+	}
 }
 .entry-image-index {
 	margin-top: -25px;

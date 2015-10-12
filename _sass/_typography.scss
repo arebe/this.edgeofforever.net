@@ -79,6 +79,17 @@ blockquote {
 
 // List items
 // --------------------------------------------------
+.entry-content ul { 
+	    list-style: none; 
+	    margin-left: 0; 
+	    padding-left: 1em; 
+	    text-indent: -1em; 
+	} 
+
+.entry-content ul li:before { 
+	    content: "- "; 
+	}
+
 .entry-content li {
 	margin-bottom: 7px;
 }
